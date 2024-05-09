@@ -1,4 +1,3 @@
 # prueba
 
-esta es una prueba de cambios en el repositorio remoto
-se requiere que se hagan pruebas para ver como funciona lo de los cambios en github
+Este formato incluye los tipos de banners clásicos que encontramos en webs y blogs, principalmente. La mayoría están formados por una combinación de texto e imágenes que pueden ser fijas o en movimiento, pero en ocasiones también pueden adoptar la forma de vídeos. La publicidad en display es la que más similitud tiene con la cartelería tradicional o los anuncios que podemos visualizar en una revista en papel. Los banners pueden adoptar diferentes formas, tamaños y aparecer en posiciones distintas del sitio web donde estén colgados. Ambos pertenecen a los formatos rich media, que brindan opciones más interactivas al usuario.
